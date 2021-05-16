@@ -39,21 +39,8 @@
      printf("GCD :%d",gcdval);
      printf("\n");
      return 0;
- }*/
- int x=10;
- do
- {
-if(x%2==0)
-{
-    x=x-1;
-    continue;
-}
-if(x%3==0)
-{
-    x=x-1;
-    printf("%d",x);
+ }
 
-}while (x>0);
 return 0;
  }
 

@@ -28,7 +28,7 @@ int divide(int x, int y)
 {
   int result;
   int temp=0;
-  while(x>y)
+  while(x>=y)
   {
       x=subtract(x,y);
       temp=add(temp,1);

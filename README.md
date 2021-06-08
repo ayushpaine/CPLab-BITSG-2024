@@ -4,7 +4,7 @@ This repo contains the lab problems, with their answers, given in the CP course 
 
 ``` Happy Coding :D ```
 
-Credits to Ansh Lalchandani for the solution to Q3 in lab 5. 
+Credits to Ansh Lalchandani for the solution to Q3 in lab 5.  
 Credits to Vaibhav Jaisawal and Priyansh Vyas for the solution to the first and second question respectively in Lab 7.
 
 
